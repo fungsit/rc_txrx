@@ -1,0 +1,15 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: C:\Users\funguy\Desktop\minimaker\attiny_RC1\circuit_tx\Project Outputs for PCB_Project1\cam.drl
+Format: 2.3
+Units: English (Inch)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.0276		3
+ 2 		0.0340		11
+ 3 		0.0354		19
+ 4 		0.0394		2

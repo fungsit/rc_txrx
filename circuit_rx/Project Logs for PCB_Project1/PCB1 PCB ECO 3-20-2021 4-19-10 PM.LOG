@@ -1,0 +1,88 @@
+Added Component: Designator=3V3 Regulator(Header3 - SIMPLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HDR1(Header2 - SIMPLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HDR2(Header2 - SIMPLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HDR3(Header3 - SIMPLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HDR4(Header4-simple)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(Arduino Pro Mini)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Level Shifter(Module-level shifter)
+Add component. Clean all parameters for all variants
+Added Component: Designator=NRF24L01(Header8)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=3V3 Regulator-3
+Added Pin To Net: NetName=3V3 Pin=J1-27
+Added Pin To Net: NetName=3V3 Pin=Level Shifter-10
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=HDR3-1
+Added Pin To Net: NetName=5V Pin=Level Shifter-3
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=HDR3-3
+Added Net: Name=12V
+Added Pin To Net: NetName=GND Pin=3V3 Regulator-2
+Added Pin To Net: NetName=GND Pin=HDR3-2
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-29
+Added Pin To Net: NetName=GND Pin=Level Shifter-4
+Added Pin To Net: NetName=GND Pin=Level Shifter-9
+Added Pin To Net: NetName=GND Pin=NRF24L01-1
+Added Net: Name=GND
+Added Pin To Net: NetName=IN1_LV Pin=J1-13
+Added Pin To Net: NetName=IN1_LV Pin=Level Shifter-12
+Added Net: Name=IN1_LV
+Added Pin To Net: NetName=IN1 Pin=HDR4-4
+Added Pin To Net: NetName=IN1 Pin=Level Shifter-1
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2_LV Pin=J1-14
+Added Pin To Net: NetName=IN2_LV Pin=Level Shifter-11
+Added Net: Name=IN2_LV
+Added Pin To Net: NetName=IN2 Pin=HDR4-3
+Added Pin To Net: NetName=IN2 Pin=Level Shifter-2
+Added Net: Name=IN2
+Added Pin To Net: NetName=IN3_LV Pin=J1-15
+Added Pin To Net: NetName=IN3_LV Pin=Level Shifter-8
+Added Net: Name=IN3_LV
+Added Pin To Net: NetName=IN3 Pin=HDR4-2
+Added Pin To Net: NetName=IN3 Pin=Level Shifter-5
+Added Net: Name=IN3
+Added Pin To Net: NetName=IN4_LV Pin=J1-16
+Added Pin To Net: NetName=IN4_LV Pin=Level Shifter-7
+Added Net: Name=IN4_LV
+Added Pin To Net: NetName=IN4 Pin=HDR4-1
+Added Pin To Net: NetName=IN4 Pin=Level Shifter-6
+Added Net: Name=IN4
+Added Pin To Net: NetName=NRF_CE Pin=J1-18
+Added Pin To Net: NetName=NRF_CE Pin=NRF24L01-3
+Added Net: Name=NRF_CE
+Added Pin To Net: NetName=NRF_CSN Pin=J1-19
+Added Pin To Net: NetName=NRF_CSN Pin=NRF24L01-4
+Added Net: Name=NRF_CSN
+Added Pin To Net: NetName=NRF_IRQ Pin=J1-17
+Added Pin To Net: NetName=NRF_IRQ Pin=NRF24L01-8
+Added Net: Name=NRF_IRQ
+Added Pin To Net: NetName=NRF_MISO Pin=J1-20
+Added Pin To Net: NetName=NRF_MISO Pin=NRF24L01-7
+Added Net: Name=NRF_MISO
+Added Pin To Net: NetName=NRF_MOSI Pin=J1-21
+Added Pin To Net: NetName=NRF_MOSI Pin=NRF24L01-6
+Added Net: Name=NRF_MOSI
+Added Pin To Net: NetName=NRF_SCK Pin=J1-22
+Added Pin To Net: NetName=NRF_SCK Pin=NRF24L01-5
+Added Net: Name=NRF_SCK
+Added Pin To Net: NetName=OUT1 Pin=HDR1-2
+Added Net: Name=OUT1
+Added Pin To Net: NetName=OUT2 Pin=HDR1-1
+Added Net: Name=OUT2
+Added Pin To Net: NetName=OUT3 Pin=HDR2-1
+Added Net: Name=OUT3
+Added Pin To Net: NetName=OUT4 Pin=HDR2-2
+Added Net: Name=OUT4
+Added Pin To Net: NetName=VCC Pin=3V3 Regulator-1
+Added Pin To Net: NetName=VCC Pin=NRF24L01-2
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

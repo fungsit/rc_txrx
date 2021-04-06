@@ -1,0 +1,12 @@
+Added Component: Designator=HDR1(Header2 - SIMPLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HDR2(Header2 - SIMPLE)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=9V Pin=3V3 Regulator-1
+Added Pin To Net: NetName=OUT2 Pin=HDR1-1
+Added Pin To Net: NetName=OUT1 Pin=HDR1-2
+Added Pin To Net: NetName=OUT3 Pin=HDR2-1
+Added Pin To Net: NetName=OUT4 Pin=HDR2-2
+Added Member To Class: ClassName=Sheet1 Member=Component HDR1 2-Pos
+Added Member To Class: ClassName=Sheet1 Member=Component HDR2 2-Pos
+Added Room: Name=Sheet1
